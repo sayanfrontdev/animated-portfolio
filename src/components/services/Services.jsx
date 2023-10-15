@@ -36,8 +36,8 @@ const Services = () => {
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
-          I focus on helping your brand grow
-          <br /> and move forward
+        Every skill you acquire doubles 
+          <br /> your odds of success.
         </p>
         <hr />
       </motion.div>
@@ -45,14 +45,16 @@ const Services = () => {
         <div className="title">
           <img src="/people.webp" alt="" />
           <h1>
-            <motion.b whileHover={{color:"orange"}}>My</motion.b> Skills
+            <motion.b whileHover={{color:"orange"}}>Learning,</motion.b> adapting, 
           </h1>
         </div>
         <div className="title">
           <h1>
-            <motion.b whileHover={{color:"orange"}}>For Your</motion.b> Business.
+            <motion.b whileHover={{color:"orange"}}>creating, </motion.b> excelling.
           </h1>
-          <button>WHAT I DO?</button>
+          <a href="https://github.com/sayanmanda">
+  <button>WHAT I DO?</button>
+</a>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
@@ -62,25 +64,24 @@ const Services = () => {
         >
           <h2>HTML/CSS/JS</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          I possess a robust skill set for web development. In HTML, I can structure content seamlessly, ensuring clarity and accessibility. CSS is my canvas for design, enabling me to create visually appealing and responsive layouts. 
           </p>
-          <button>Go</button>
+           <a href="https://www.w3schools.com/html/html_scripts.asp">
+          <button>Where I learned this Course from </button>
+          </a>
         </motion.div>
+        
         <motion.div
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>React & Bootstrap</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          I possess proficient skills in React and Bootstrap, two powerful tools that synergize to create dynamic and responsive web applications. In React, my expertise lies in crafting modular and reusable components, facilitating a modular and efficient development process.
           </p>
-          <button>Go</button>
+          <a href="https://react-bootstrap.netlify.app/">
+          <button>Where I learned this Course from</button>
+          </a>
         </motion.div>
         <motion.div
           className="box"
@@ -88,12 +89,11 @@ const Services = () => {
         >
           <h2>Firebase & Firestore</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Possessing proficient skills in Firebase and Firestore, I excel in developing robust and scalable applications that leverage the power of these cutting-edge technologies. My expertise includes designing and implementing Firebase real-time databases to create dynamic, responsive, and interactive applications.
           </p>
-          <button>Go</button>
+          <a href="https://www.tutorialspoint.com/firebase/index.htm">
+          <button>Where I learned this Course from </button>
+          </a>
         </motion.div>
         <motion.div
           className="box"
@@ -101,12 +101,11 @@ const Services = () => {
         >
           <h2>MongoDB</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Proficient in MongoDB, I possess a comprehensive set of skills in this NoSQL database system. My expertise extends from designing robust and scalable database architectures to implementing efficient data models that align with the specific requirements of applications. 
           </p>
-          <button>Go</button>
+          <a href="https://www.w3schools.com/mongodb/">
+          <button>Where I learned this Course from</button>
+          </a>
         </motion.div>
       </motion.div>
     </motion.div>
