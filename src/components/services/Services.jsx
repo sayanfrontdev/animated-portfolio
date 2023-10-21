@@ -67,7 +67,7 @@ const Services = () => {
           I possess a robust skill set for web development. In HTML, I can structure content seamlessly, ensuring clarity and accessibility. CSS is my canvas for design, enabling me to create visually appealing and responsive layouts. 
           </p>
            <a href="https://www.w3schools.com/html/html_scripts.asp">
-          <button>Where I learned this Course from </button>
+          <button>Click here </button>
           </a>
         </motion.div>
         
@@ -80,7 +80,7 @@ const Services = () => {
           I possess proficient skills in React and Bootstrap, two powerful tools that synergize to create dynamic and responsive web applications. In React, my expertise lies in crafting modular and reusable components, facilitating a modular and efficient development process.
           </p>
           <a href="https://react-bootstrap.netlify.app/">
-          <button>Where I learned this Course from</button>
+          <button>Click here</button>
           </a>
         </motion.div>
         <motion.div
@@ -92,7 +92,7 @@ const Services = () => {
           Possessing proficient skills in Firebase and Firestore, I excel in developing robust and scalable applications that leverage the power of these cutting-edge technologies. My expertise includes designing and implementing Firebase real-time databases to create dynamic, responsive, and interactive applications.
           </p>
           <a href="https://www.tutorialspoint.com/firebase/index.htm">
-          <button>Where I learned this Course from </button>
+          <button>Click here </button>
           </a>
         </motion.div>
         <motion.div
@@ -104,7 +104,7 @@ const Services = () => {
           Proficient in MongoDB, I possess a comprehensive set of skills in this NoSQL database system. My expertise extends from designing robust and scalable database architectures to implementing efficient data models that align with the specific requirements of applications. 
           </p>
           <a href="https://www.w3schools.com/mongodb/">
-          <button>Where I learned this Course from</button>
+          <button>Click here</button>
           </a>
         </motion.div>
       </motion.div>
