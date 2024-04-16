@@ -9,21 +9,21 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
         title: "Simple Portfolio Web Design",
         img: "/project_1.png",
         desc: "The design will utilize sample white space, with a clean and uncluttered layout. This ensures that your work takes center stage and creates a professional and modern look.The website will be responsive, meaning it adapts to different screen sizes and devices, such as desktops, laptops, tablets, and mobile phones. This ensures a seamless user experience across all devices.",
-        demoLink: "https://sayanmanda.github.io/Imsayan.github.io/",
+        demoLink: "https://imsayan-k4rb03faw-sayanmandas-projects.vercel.app/",
       },
       {
         id: 2,
         title: "E-Commerce Website Design",
         img: "/project_2.png",
         desc: "This e-commerce website design is carefully crafted to provide an intuitive and user-friendly experience for both our clients and their customers. With a clean and modern aesthetic, we aim to create a visually appealing platform that enhances the shopping experience.Each product should have a dedicated page with clear and detailed descriptions, high-quality images. ",
-        demoLink: "https://sayanmanda.github.io/e-learning/",
+        demoLink: "https://e-learning-b3cowq9hn-sayanmandas-projects.vercel.app/",
       },
       {
         id:3 ,
         title: "Digital Commerce Creations",
         img: "/project_3.png",
         desc: "Welcome to my portfolio website, where I proudly present a curated selection of my finest e-commerce website designs. With a passion for creating visually stunning and user-friendly online shopping experiences, I've harnessed the power of design, functionality, and innovation to help businesses thrive in the digital marketplace.",
-        demoLink: "https://storehook-online-store.netlify.app/",
+        demoLink: "https://storehook-stores.vercel.app/",
       },
       {
         id: 4,
@@ -48,10 +48,10 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
       },
       {
         id: 7,
-        title: "Amazon clone website",
+        title: "Flipkart clone website",
         img: "/project_7.png",
-        desc: "Designing an Amazon clone website involves replicating the key features and aesthetics of the renowned e-commerce platform while incorporating a user-friendly interface and responsive design. The website's layout typically includes a prominent search bar at the top for easy navigation, along with distinct sections for different product categories.",
-        demoLink: "https://sayanmanda.github.io/amazon-clone/",
+        desc: "Designing an Flipkart clone website involves replicating the key features and aesthetics of the renowned e-commerce platform while incorporating a user-friendly interface and responsive design. The website's layout typically includes a prominent search bar at the top for easy navigation, along with distinct sections for different product categories.",
+        demoLink: "https://flipkart-clone-4t3dp8pq8-sayanmanda.vercel.app/",
       },
       {
         id: 8,
