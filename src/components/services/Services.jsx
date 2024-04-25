@@ -52,7 +52,7 @@ const Services = () => {
           <h1>
             <motion.b whileHover={{color:"orange"}}>creating, </motion.b> excelling.
           </h1>
-          <a href="https://github.com/sayanmanda">
+          <a href="https://github.com/sayanfrontdev">
   <button>WHAT I DO?</button>
 </a>
         </div>
